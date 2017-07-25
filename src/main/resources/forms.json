@@ -1,0 +1,745 @@
+{
+  "256": [
+    "Male",
+    "Female"
+  ],
+  "257": [
+    "Male",
+    "Female",
+    "Mega Blaziken"
+  ],
+  "3": [
+    "Male",
+    "Female",
+    "Mega Venusaur"
+  ],
+  "260": [
+    "Swampert",
+    "Mega Swampert"
+  ],
+  "6": [
+    "Charizard",
+    "Mega Charizard X",
+    "Mega Charizard Y"
+  ],
+  "9": [
+    "Blastoise",
+    "Mega Blastoise"
+  ],
+  "521": [
+    "Male",
+    "Female"
+  ],
+  "267": [
+    "Male",
+    "Female"
+  ],
+  "12": [
+    "Male",
+    "Female"
+  ],
+  "269": [
+    "Male",
+    "Female"
+  ],
+  "15": [
+    "Beedrill",
+    "Mega Beedrill"
+  ],
+  "272": [
+    "Male",
+    "Female"
+  ],
+  "18": [
+    "Pidgeot",
+    "Mega Pidgeot"
+  ],
+  "274": [
+    "Male",
+    "Female"
+  ],
+  "19": [
+    "Male",
+    "Female"
+  ],
+  "275": [
+    "Male",
+    "Female"
+  ],
+  "531": [
+    "Audino",
+    "Mega Audino"
+  ],
+  "20": [
+    "Male",
+    "Female"
+  ],
+  "25": [
+    "Male",
+    "Female",
+    "Cosplay"
+  ],
+  "26": [
+    "Male",
+    "Female"
+  ],
+  "282": [
+    "Gardevoir",
+    "Mega Gardevoir"
+  ],
+  "550": [
+    "Blue",
+    "Red"
+  ],
+  "41": [
+    "Male",
+    "Female"
+  ],
+  "42": [
+    "Male",
+    "Female"
+  ],
+  "555": [
+    "Standard",
+    "Zen"
+  ],
+  "44": [
+    "Male",
+    "Female"
+  ],
+  "45": [
+    "Male",
+    "Female"
+  ],
+  "302": [
+    "Sableye",
+    "Mega Sableye"
+  ],
+  "303": [
+    "Mawile",
+    "Mega Mawile"
+  ],
+  "306": [
+    "Aggron",
+    "Mega Aggron"
+  ],
+  "307": [
+    "Male",
+    "Female"
+  ],
+  "308": [
+    "Male",
+    "Female",
+    "Mega Medicham"
+  ],
+  "310": [
+    "Manectric",
+    "Mega Manectric"
+  ],
+  "315": [
+    "Male",
+    "Female"
+  ],
+  "316": [
+    "Male",
+    "Female"
+  ],
+  "317": [
+    "Male",
+    "Female"
+  ],
+  "319": [
+    "Sharpedo",
+    "Mega Sharpedo"
+  ],
+  "64": [
+    "Male",
+    "Female"
+  ],
+  "65": [
+    "Male",
+    "Female",
+    "Mega Alakazam"
+  ],
+  "322": [
+    "Male",
+    "Female"
+  ],
+  "323": [
+    "Male",
+    "Female",
+    "Mega Camerupt"
+  ],
+  "585": [
+    "Autumn",
+    "Spring",
+    "Summer",
+    "Winter"
+  ],
+  "586": [
+    "Autumn",
+    "Spring",
+    "Summer",
+    "Winter"
+  ],
+  "332": [
+    "Male",
+    "Female"
+  ],
+  "334": [
+    "Altaria",
+    "Mega Altaria"
+  ],
+  "80": [
+    "Slowbro",
+    "Mega Slowbro"
+  ],
+  "592": [
+    "Male",
+    "Female"
+  ],
+  "593": [
+    "Male",
+    "Female"
+  ],
+  "84": [
+    "Male",
+    "Female"
+  ],
+  "85": [
+    "Male",
+    "Female"
+  ],
+  "94": [
+    "Gengar",
+    "Mega Gengar"
+  ],
+  "350": [
+    "Male",
+    "Female"
+  ],
+  "351": [
+    "Normal",
+    "Rainy",
+    "Snowy",
+    "Sunny"
+  ],
+  "97": [
+    "Male",
+    "Female"
+  ],
+  "354": [
+    "Banette",
+    "Mega Banette"
+  ],
+  "359": [
+    "Absol",
+    "Mega Absol"
+  ],
+  "362": [
+    "Glalie",
+    "Mega Glalie"
+  ],
+  "111": [
+    "Male",
+    "Female"
+  ],
+  "112": [
+    "Male",
+    "Female"
+  ],
+  "369": [
+    "Male",
+    "Female"
+  ],
+  "115": [
+    "Kangaskhan",
+    "Mega Kangaskhan"
+  ],
+  "373": [
+    "Salamence",
+    "Mega Salamence"
+  ],
+  "118": [
+    "Male",
+    "Female"
+  ],
+  "119": [
+    "Male",
+    "Female"
+  ],
+  "376": [
+    "Metagross",
+    "Mega Metagross"
+  ],
+  "123": [
+    "Male",
+    "Female"
+  ],
+  "380": [
+    "Latias",
+    "Mega Latias"
+  ],
+  "381": [
+    "Latios",
+    "Mega Latios"
+  ],
+  "382": [
+    "Kyogre",
+    "Primal Kyogre"
+  ],
+  "127": [
+    "Pinsir",
+    "Mega Pinsir"
+  ],
+  "383": [
+    "Groudon",
+    "Primal Groudon"
+  ],
+  "384": [
+    "Rayquaza",
+    "Mega Rayquaza"
+  ],
+  "129": [
+    "Male",
+    "Female"
+  ],
+  "641": [
+    "Incarnate",
+    "Therian"
+  ],
+  "130": [
+    "Male",
+    "Female",
+    "Mega Gyarados"
+  ],
+  "386": [
+    "Normal",
+    "Attack",
+    "Defense",
+    "Speed"
+  ],
+  "642": [
+    "Incarnate",
+    "Therian"
+  ],
+  "645": [
+    "Incarnate",
+    "Therian"
+  ],
+  "646": [
+    "Normal",
+    "Black",
+    "White"
+  ],
+  "647": [
+    "Ordinary",
+    "Resolute"
+  ],
+  "648": [
+    "Aria",
+    "Pirouette"
+  ],
+  "396": [
+    "Male",
+    "Female"
+  ],
+  "397": [
+    "Male",
+    "Female"
+  ],
+  "142": [
+    "Aerodactyl",
+    "Mega Aerodactyl"
+  ],
+  "398": [
+    "Male",
+    "Female"
+  ],
+  "399": [
+    "Male",
+    "Female"
+  ],
+  "400": [
+    "Male",
+    "Female"
+  ],
+  "401": [
+    "Male",
+    "Female"
+  ],
+  "402": [
+    "Male",
+    "Female"
+  ],
+  "403": [
+    "Male",
+    "Female"
+  ],
+  "404": [
+    "Male",
+    "Female"
+  ],
+  "405": [
+    "Male",
+    "Female"
+  ],
+  "150": [
+    "Mewtwo",
+    "Mega Mewtwo X",
+    "Mega Mewtwo Y"
+  ],
+  "407": [
+    "Male",
+    "Female"
+  ],
+  "154": [
+    "Male",
+    "Female"
+  ],
+  "666": [
+    "Archipelago",
+    "Continental",
+    "Elegant",
+    "Fancy",
+    "Garden",
+    "High Plains",
+    "Icy Snow",
+    "Jungle",
+    "Marine",
+    "Meadow",
+    "Modern",
+    "Monsoon",
+    "Ocean",
+    "Pokeball",
+    "Polar",
+    "River",
+    "Sandstorm",
+    "Savannah",
+    "Sun",
+    "Tundra"
+  ],
+  "412": [
+    "Plant",
+    "Sandy",
+    "Trash"
+  ],
+  "668": [
+    "Male",
+    "Female"
+  ],
+  "413": [
+    "Plant",
+    "Sandy",
+    "Trash"
+  ],
+  "669": [
+    "Blue",
+    "Orange",
+    "Red",
+    "White",
+    "Yellow"
+  ],
+  "670": [
+    "Blue",
+    "Orange",
+    "Red",
+    "White",
+    "Yellow"
+  ],
+  "415": [
+    "Male",
+    "Female"
+  ],
+  "671": [
+    "Blue",
+    "Orange",
+    "Red",
+    "White",
+    "Yellow"
+  ],
+  "417": [
+    "Male",
+    "Female"
+  ],
+  "418": [
+    "Male",
+    "Female"
+  ],
+  "419": [
+    "Male",
+    "Female"
+  ],
+  "165": [
+    "Male",
+    "Female"
+  ],
+  "421": [
+    "Overcast",
+    "Sunshine"
+  ],
+  "166": [
+    "Male",
+    "Female"
+  ],
+  "422": [
+    "East",
+    "West"
+  ],
+  "678": [
+    "Male",
+    "Female"
+  ],
+  "423": [
+    "East",
+    "West"
+  ],
+  "424": [
+    "Male",
+    "Female"
+  ],
+  "681": [
+    "Shield",
+    "Blade"
+  ],
+  "428": [
+    "Lopunny",
+    "Mega Lopunny"
+  ],
+  "178": [
+    "Male",
+    "Female"
+  ],
+  "181": [
+    "Ampharos",
+    "Mega Ampharos"
+  ],
+  "185": [
+    "Male",
+    "Female"
+  ],
+  "186": [
+    "Male",
+    "Female"
+  ],
+  "443": [
+    "Male",
+    "Female"
+  ],
+  "444": [
+    "Male",
+    "Female"
+  ],
+  "445": [
+    "Male",
+    "Female",
+    "Mega Garchomp"
+  ],
+  "190": [
+    "Male",
+    "Female"
+  ],
+  "448": [
+    "Lucario",
+    "Mega Lucario"
+  ],
+  "449": [
+    "Male",
+    "Female"
+  ],
+  "194": [
+    "Male",
+    "Female"
+  ],
+  "450": [
+    "Male",
+    "Female"
+  ],
+  "195": [
+    "Male",
+    "Female"
+  ],
+  "453": [
+    "Male",
+    "Female"
+  ],
+  "198": [
+    "Male",
+    "Female"
+  ],
+  "454": [
+    "Male",
+    "Female"
+  ],
+  "710": [
+    "Small",
+    "Average",
+    "Large",
+    "Super"
+  ],
+  "711": [
+    "Small",
+    "Average",
+    "Large",
+    "Super"
+  ],
+  "456": [
+    "Male",
+    "Female"
+  ],
+  "201": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T",
+    "U",
+    "V",
+    "W",
+    "X",
+    "Y",
+    "Z",
+    "?",
+    "!"
+  ],
+  "457": [
+    "Male",
+    "Female"
+  ],
+  "202": [
+    "Male",
+    "Female"
+  ],
+  "203": [
+    "Male",
+    "Female"
+  ],
+  "459": [
+    "Male",
+    "Female"
+  ],
+  "460": [
+    "Male",
+    "Female",
+    "Mega Abomasnow"
+  ],
+  "716": [
+    "Neutral",
+    "Active"
+  ],
+  "461": [
+    "Male",
+    "Female"
+  ],
+  "207": [
+    "Male",
+    "Female"
+  ],
+  "719": [
+    "Diancie",
+    "Mega Diancie"
+  ],
+  "208": [
+    "Male",
+    "Female",
+    "Mega Steelix"
+  ],
+  "464": [
+    "Male",
+    "Female"
+  ],
+  "720": [
+    "Confined",
+    "Unbound"
+  ],
+  "465": [
+    "Male",
+    "Female"
+  ],
+  "212": [
+    "Male",
+    "Female",
+    "Mega Scizor"
+  ],
+  "214": [
+    "Male",
+    "Female",
+    "Mega Heracross"
+  ],
+  "215": [
+    "Male",
+    "Female"
+  ],
+  "217": [
+    "Male",
+    "Female"
+  ],
+  "473": [
+    "Male",
+    "Female"
+  ],
+  "475": [
+    "Gallade",
+    "Mega Gallade"
+  ],
+  "221": [
+    "Male",
+    "Female"
+  ],
+  "479": [
+    "Normal",
+    "Fan",
+    "Frost",
+    "Heat",
+    "Mow",
+    "Wash"
+  ],
+  "224": [
+    "Male",
+    "Female"
+  ],
+  "229": [
+    "Male",
+    "Female",
+    "Mega Houndoom"
+  ],
+  "487": [
+    "Altered",
+    "Origin"
+  ],
+  "232": [
+    "Male",
+    "Female"
+  ],
+  "492": [
+    "Land",
+    "Sky"
+  ],
+  "248": [
+    "Tyranitar",
+    "Mega Tyranitar"
+  ],
+  "254": [
+    "Sceptile",
+    "Mega Sceptile"
+  ],
+  "255": [
+    "Male",
+    "Female"
+  ]
+}

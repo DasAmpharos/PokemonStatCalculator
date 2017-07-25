@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+
+<project default="compile">
+    <!-- ALL PROPERTIES -->
+    <!-- The base directory for the project -->
+    <property name="project.dir" location="${basedir}/.."/>
+    <!-- The location of the target folder -->
+    <property name="target.dir" location="${project.dir}/target"/>
+    <!-- The location of the docs folder -->
+    <property name="doc.dir" location="${project.dir}/doc"/>
+
+
+    <!-- ALL COMPILE TARGETS -->
+    <!-- Compiles the source code -->
+    <target name="compile" depends="compile-windows, compile-unix"/>
+
+    <!-- Runs mvn clean compile in Windows -->
+    <target name="compile-windows" if="isWindows">
+        <exec dir="../" executable="cmd">
+            <arg line="/c mvn clean compile dependency:copy-dependencies"/>
+        </exec>
+    </target>
+
+    <!-- Runs mvn clean compile in Unix/MacOS -->
+    <target name="compile-unix" if="isUnix">
+        <exec dir="../" executable="sh">
+            <arg line="-c 'mvn clean compile dependency:copy-dependencies'"/>
+        </exec>
+    </target>
+
+
+    <!-- ALL BUILD TARGETS -->
+    <!-- Builds the executable jar -->
+    <target name="build-jar">
+        <!-- Define the build version -->
+        <input addproperty="build.version" message="Build Version:"/>
+
+        <!-- Compile the source -->
+        <echo>Compiling...</echo>
+        <antcall target="compile"></antcall>
+
+        <!-- Build the jar -->
+        <echo>Building jar...</echo>
+        <jar destfile="PokemonStatCalculator-${build.version}.jar" basedir="../target/classes">
+            <manifest>
+                <attribute name="Main-Class" value="com.meadowsapps.pkmn.PokemonStatCalculator"/>
+            </manifest>
+            <!-- Include all dependencies -->
+            <zipgroupfileset dir="${target.dir}/dependency" includes="**/*.jar"/>
+        </jar>
+    </target>
+
+    <!-- Builds the distribution bundle -->
+    <target name="build-distro" depends="build-jar">
+        <!-- Define the distro name -->
+        <property name="distro" value="PokemonStatCalculator-${build.version}"/>
+
+        <!-- Clean distro folder if it exists -->
+        <delete dir="${distro}" failonerror="false"/>
+        <mkdir dir="${distro}"/>
+
+        <!-- Copy the jar and documents to the distro folder -->
+        <copy file="${distro}.jar" todir="${distro}"></copy>
+        <copy todir="${distro}">
+            <fileset dir="${doc.dir}"/>
+        </copy>
+
+        <!-- Zip the distro folder -->
+        <zip destfile="${distro}.zip" basedir="${distro}"/>
+
+        <!-- Clean the distro folder -->
+        <delete dir="${distro}"/>
+    </target>
+
+
+    <!-- ALL CONDITIONAL TARGETS -->
+    <!-- Determines if we are building in Windows -->
+    <condition property="isWindows">
+        <os family="windows"/>
+    </condition>
+
+    <!-- Determines if we are building in MacOS -->
+    <condition property="isMacOS">
+        <os family="mac"/>
+    </condition>
+
+    <!-- Determines if we are building in Unix -->
+    <condition property="isUnix">
+        <os family="unix"/>
+    </condition>
+
+</project>
